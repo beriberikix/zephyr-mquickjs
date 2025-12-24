@@ -8,6 +8,7 @@ if(CONFIG_MQUICKJS)
         mquickjs/mquickjs.c
         mquickjs/cutils.c
         mquickjs/mqjs_stdlib.c
+        mquickjs/dtoa.c
     )
 
     # Conditionally compile the internal math library
