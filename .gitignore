@@ -1,0 +1,9 @@
+build/
+mquickjs/
+modules/
+zephyr/
+.vscode/
+__pycache__/
+*.bin
+*.elf
+*.hex
